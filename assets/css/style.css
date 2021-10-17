@@ -330,6 +330,7 @@ html{
     display: inline-block;
     text-align: center;
     border: none;
+    cursor: pointer;
 }
 
 .place-btn:hover{
